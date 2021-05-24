@@ -54,6 +54,7 @@ export default class PortfolioContainer extends Component {
 
     return (
       <div className="homepage-wrapper">
+        <div className="homepage-wrapper-title">My Projects:</div>
         <div className="portfolio-items-wrapper">{this.portfolioItems()}</div>
       </div>
     );

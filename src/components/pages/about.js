@@ -13,23 +13,16 @@ export default function () {
         }}
       />
       <div className="right-column">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates
-        ullam delectus recusandae fugit, possimus nostrum eaque pariatur porro.
-        Incidunt praesentium quam vero neque qui rerum cumque facere tempora
-        accusamus minus? Ut quos explicabo nesciunt, dignissimos soluta sint
-        incidunt eius, repudiandae sequi ex aspernatur repellendus distinctio
-        assumenda nemo laborum facere nam ipsa est obcaecati. Architecto
-        voluptatum unde sunt blanditiis iusto illum! Soluta quibusdam quo magni
-        id omnis suscipit quod nisi qui, maiores, enim eligendi minima
-        cupiditate distinctio debitis. Ipsam ab unde perferendis corrupti
-        laboriosam doloribus at, autem error aspernatur cum quos. Voluptatibus
-        minima minus possimus? Doloribus molestiae saepe quam quasi delectus
-        fugiat rerum consequuntur earum error, nihil at? Id numquam quod nemo
-        vel natus magni cumque assumenda. Vero sit hic praesentium?
-        Reprehenderit libero atque laudantium modi, dolor vero dolorem
-        distinctio. Recusandae qui illum laudantium eligendi molestiae non
-        expedita placeat error reiciendis aliquid? Veniam expedita quaerat et
-        dolores facere cumque doloribus provident.
+        I am a junior programmer, recently graduated from Bottega University.
+        Languages I have used are Javascript, React, Python, and HTML/SCSS. I am
+        looking for an opportunity to grow and learn as a developer. I started
+        out my tech career as a help desk technician. I got my Associates Degree
+        in Computer Networking. I love technology and I love growing with it. As
+        I continued my journey as a helpdesk tech I found programming. I grew to
+        love programming as it reminded me of my joy as a child building with legos.
+        I hope to continue my skills as a developer and I am excited to see where this takes me.
+        I know I have still have lots to learn but I can not wait for the opportunity to get better 
+        and grow my skils as a developer.
       </div>
     </div>
   );
